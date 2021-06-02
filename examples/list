@@ -1,0 +1,13 @@
+# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+
+>>> a = [1, 2, 3, 4, 5]
+>>> print(a[0])
+1
+
+>>> a = [1, 2, 3, 4, 5]
+>>> print(a[:2])
+[1, 2]
+
+>>> a = [1, 2, 3, 4, 5]
+>>> print(a[1:])
+[2, 3, 4, 5]
