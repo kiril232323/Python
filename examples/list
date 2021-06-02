@@ -4,6 +4,10 @@
 >>> print(a[0])
 1
 
+>>> a = ["Kerala", "Tamil Nadu", "Karnataka", "Andra Pradesh", "Maharashtra"]
+>>> print(a[0]
+Kerala
+
 >>> a = [1, 2, 3, 4, 5]
 >>> print(a[:2])
 [1, 2]
