@@ -1,3 +1,5 @@
+# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
+
 >>> 1 + 2
 3
 
