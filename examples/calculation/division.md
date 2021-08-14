@@ -1,23 +1,43 @@
-# Author: Fayas (https://github.com/FayasNoushad) (@FayasNoushad)
-
+```python
 >>> 6 / 2
+```
 3.0
 
+---
+
+```python
 >>> a = 8
 >>> b = 2
 >>> a / b
+```
 4.0
 
+---
+
+```python
 >>> a = int("10")
 >>> b = int("2")
 >>> a / b
+```
 5.0
 
+---
+
+```python
 >>> 5 / 2
+```
 2.5
 
+---
+
+```python
 >>> 8 // 2
+```
 4
 
+---
+
+```python
 >>> round(10 / 2)
+```
 5
